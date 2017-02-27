@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rating</string>
+    <string name="btnAction">Song 1</string>
+    <string name="btnAction1">Song 2</string>
+    <string name="btnAction2">Song 3</string>
+    <string name="btnSong1">Play song 1</string>
+    <string name="btnSong2">Play song 2</string>
+    <string name="btnSong3">Play song 3</string>
+</resources>
